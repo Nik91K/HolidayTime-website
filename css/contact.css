@@ -1,0 +1,45 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+  background-color: #dcdcdc;
+}
+
+.contacts_div{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  width: 700px;
+  height: 600px;
+  top: 20%;
+  left: 30%;
+}
+.phone{
+  margin-left: 10px;
+  color: #000000;
+  width: 200px;
+  height: 100px;
+}
+
+.contacts_hr{
+  float: left;
+  width: 150px;
+  color: #353c57;
+}
+
+.mail{
+  float: left;
+  float: left;
+  margin-left: 10px;
+  color: #000000;  
+  width: 160px;
+  height: 50px;
+}
+
+.map{
+  width: 275px;
+  height: 160px;
+}

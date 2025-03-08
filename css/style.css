@@ -1,6 +1,7 @@
 *{
 	padding: 0;
 	margin: 0;
+  font-family: 'PT Sans', sans-serif; 
 }
 
 /* page */
@@ -505,99 +506,4 @@ text-align: left;
 
 .lineHorizontal2{
   margin: 15px 0;
-}
-/* personal office */
-
-.personal_of{
-  margin-top: 41px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 1318px;
-  height: 498px;
-  top: 271px;
-  left: 319px;
-  gap: 0px;
-  opacity: 0px;
-  background-color: #BDBDC6;
-}
-
-.personal_of2{
-  display: flex;
-  margin-top: 20px;
-  margin-left: 10px;
-  align-items: center;
-  position: relative;
-  margin-bottom: 30px;
-}
-
-.avatar{
-  height: 498px;
-  width: 210px;
-  margin-left: 140px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin-right: 90px;
-}
-
-.avatar_png{
-  width: 196px;
-  height: 184px;
-  top: 348px;
-  left: 486px;
-  gap: 0px;
-  opacity: 0px;
-}
-
-.button_avatar{
-  background-color: #69749B;
-  margin: 30px 0 20px 0;
-}
-
-.button_avatar font{
-  font-family: PT Sans;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 31.06px;
-  text-align: center;
-}
-
-.button_avatar2{
-  background-color: #484A54;
-  width: 250px;
-  height: 50px;
-  top: 642px;
-  left: 459px;
-  gap: 0px;
-  opacity: 0px;
-}
-
-.button_avatar2 font{
-  width: 152px;
-  height: 31px;
-  top: 9.57px;
-  left: 47.63px;
-  gap: 0px;
-  opacity: 0px;
-}
-
-.personal_text{
-  width: auto;
-}
-
-.personal_text font{
-  font-family: PT Sans;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 46.58px;
-  text-align: left;
-  color: #2f3446;
-}
-
-.personal_text span{
-  font-family: PT Sans;
-  font-style: italic;
-  color: #202846;
 }
